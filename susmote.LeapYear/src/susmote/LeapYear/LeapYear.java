@@ -1,8 +1,8 @@
-package com.java.studio;
+package susmote.LeapYear;
 
 import java.util.Scanner;
 
-public class JudgeLeapYear {
+public class LeapYear {
 	public static void main(String[] args) {
 		@SuppressWarnings("resource")
 		Scanner scan = new Scanner(System.in);
@@ -12,9 +12,6 @@ public class JudgeLeapYear {
 			System.out.println(year + "是闰年！");
 		}else {
 			System.out.println(year + "不是闰年！");
-		}
-		
-		
+		}	
 	}
-
 }

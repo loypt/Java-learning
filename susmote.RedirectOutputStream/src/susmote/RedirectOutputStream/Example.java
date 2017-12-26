@@ -1,9 +1,9 @@
-package com.java.studio;
+package susmote.RedirectOutputStream;
 
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
 
-public class RedirectOutputStream {
+public class Example {
 	public static void main(String[] args) {
 		PrintStream out = System.out;
 		PrintStream ps = null;

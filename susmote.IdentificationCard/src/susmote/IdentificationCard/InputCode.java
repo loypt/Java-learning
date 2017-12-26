@@ -1,4 +1,4 @@
-package com.java.studio;
+package susmote.IdentificationCard;
 
 import java.util.Scanner;
 

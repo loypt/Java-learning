@@ -1,8 +1,8 @@
-package com.java.studio;
+package susmote.DistributionDepartment;
 
 import java.util.Scanner;
 
-public class DistributionDepartment {
+public class Example {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("请输入新员工的姓名：");
