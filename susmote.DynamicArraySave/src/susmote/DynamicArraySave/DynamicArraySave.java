@@ -4,10 +4,8 @@ import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
 import javax.swing.AbstractListModel;
-import javax.swing.DefaultListModel;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-import javax.swing.ListModel;
 import javax.swing.border.EmptyBorder;
 import javax.swing.JScrollPane;
 import javax.swing.JList;
@@ -20,19 +18,14 @@ import java.awt.event.ActionEvent;
 import java.util.ArrayList;
 import javax.swing.JTextField;
 import javax.swing.UIManager;
-import javax.swing.JPopupMenu;
-import java.awt.Component;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
-import javax.swing.JComboBox;
 
-/**
- * @author susmote
- *
- */
 public class DynamicArraySave extends JFrame {
     
-    private JPanel contentPane;
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1280867327739939715L;
+	private JPanel contentPane;
     private final JPanel panel = new JPanel();
     
     /**
@@ -61,7 +54,7 @@ public class DynamicArraySave extends JFrame {
      * Create the frame.
      */
     public DynamicArraySave() {
-        setTitle("ÓÃ¶¯Ì¬Êı×é±£´æÑ§ÉúĞÕÃû  by susmote");
+        setTitle("ç”¨åŠ¨æ€æ•°ç»„ä¿å­˜å­¦ç”Ÿå§“å");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setBounds(100, 100, 337, 269);
         contentPane = new JPanel();
@@ -78,7 +71,7 @@ public class DynamicArraySave extends JFrame {
         JPanel panel_1 = new JPanel();
         scrollPane.setColumnHeaderView(panel_1);
         
-        JLabel label = new JLabel("Ñ§ÉúĞÕÃû£º");
+        JLabel label = new JLabel("å­¦ç”Ÿå§“åï¼š");
         panel_1.add(label);
         
         textField = new JTextField();
@@ -88,7 +81,7 @@ public class DynamicArraySave extends JFrame {
         contentPane.add(panel, BorderLayout.EAST);
         panel.setLayout(new FlowLayout(FlowLayout.CENTER, 5, 5));
         
-        JButton button = new JButton("Ìí¼ÓÑ§Éú");
+        JButton button = new JButton("æ·»åŠ å­¦ç”Ÿ");
         button.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 do_button_actionPerformed(e);
@@ -96,7 +89,7 @@ public class DynamicArraySave extends JFrame {
         });
         panel.add(button);
         
-        JButton button_1 = new JButton("É¾³ıÑ§Éú");
+        JButton button_1 = new JButton("åˆ é™¤å­¦ç”Ÿ");
         button_1.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 do_button_1_actionPerformed(e);
@@ -139,3 +132,4 @@ public class DynamicArraySave extends JFrame {
         });
     }
 }
+
