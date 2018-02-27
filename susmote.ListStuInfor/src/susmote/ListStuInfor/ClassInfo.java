@@ -44,7 +44,7 @@ public class ClassInfo extends JFrame {
 	 * Create the frame.
 	 */
 	public ClassInfo() {
-		setTitle("ÓÃList¼¯ºÏ´«µİÑ§ÉúĞÅÏ¢ by susmote");
+		setTitle("ç”¨Listé›†åˆä¼ é€’å­¦ç”Ÿä¿¡æ¯ by susmote");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 392, 223);
 		contentPane = new JPanel();
@@ -58,30 +58,30 @@ public class ClassInfo extends JFrame {
 	}
 	private JTable getTable() {
         if (table == null) {
-            table = new JTable();// ´´½¨±í¸ñ¿Ø¼ş
-            table.setRowHeight(23);// ÉèÖÃĞĞ¸ß¶È
-            String[] columns = { "ĞÕÃû", "ĞÔ±ğ", "³öÉúÈÕÆÚ" };// ´´½¨ÁĞÃûÊı×é
-            // ´´½¨±í¸ñÄ£ĞÍ
+            table = new JTable();// åˆ›å»ºè¡¨æ ¼æ§ä»¶
+            table.setRowHeight(23);// è®¾ç½®è¡Œé«˜åº¦
+            String[] columns = { "å§“å", "æ€§åˆ«", "å‡ºç”Ÿæ—¥æœŸ" };// åˆ›å»ºåˆ—åæ•°ç»„
+            // åˆ›å»ºè¡¨æ ¼æ¨¡å‹
             DefaultTableModel model = new DefaultTableModel(columns, 0);
-            table.setModel(model);// ÉèÖÃ±í¸ñÄ£ĞÍ
-            List<String> students = getStudents();// µ÷ÓÃ·½·¨´«µİlist¼¯ºÏ¶ÔÏó
-            for (String info : students) {// ±éÀúÑ§Éú¼¯ºÏ¶ÔÏó
-                String[] args = info.split(",");// °ÑÑ§ÉúĞÅÏ¢²ğ·ÖÎªÊı×é
-                model.addRow(args);// °ÑÑ§ÉúĞÅÏ¢Ìí¼Óµ½±í¸ñµÄĞĞ
+            table.setModel(model);// è®¾ç½®è¡¨æ ¼æ¨¡å‹
+            List<String> students = getStudents();// è°ƒç”¨æ–¹æ³•ä¼ é€’listé›†åˆå¯¹è±¡
+            for (String info : students) {// éå†å­¦ç”Ÿé›†åˆå¯¹è±¡
+                String[] args = info.split(",");// æŠŠå­¦ç”Ÿä¿¡æ¯æ‹†åˆ†ä¸ºæ•°ç»„
+                model.addRow(args);// æŠŠå­¦ç”Ÿä¿¡æ¯æ·»åŠ åˆ°è¡¨æ ¼çš„è¡Œ
             }
         }
         return table;
     }
 
 	private List<String> getStudents() {
-        // ´´½¨List¼¯ºÏ¶ÔÏó
+        // åˆ›å»ºListé›†åˆå¯¹è±¡
         List<String> list = new ArrayList<String>();
-        list.add("Àî¸ç,ÄĞ,1981-1-1");// Ìí¼ÓÊı¾İµ½¼¯ºÏ¶ÔÏó
-        list.add("Ğ¡³Â,Å®,1981-1-1");
-        list.add("Ğ¡Áõ,ÄĞ,1981-1-1");
-        list.add("Ğ¡ÕÅ,ÄĞ,1981-1-1");
-        list.add("Ğ¡¶­,ÄĞ,1981-1-1");
-        list.add("Ğ¡ÂÀ,ÄĞ,1981-1-1");
+        list.add("æå“¥,ç”·,1981-1-1");// æ·»åŠ æ•°æ®åˆ°é›†åˆå¯¹è±¡
+        list.add("å°é™ˆ,å¥³,1981-1-1");
+        list.add("å°åˆ˜,ç”·,1981-1-1");
+        list.add("å°å¼ ,ç”·,1981-1-1");
+        list.add("å°è‘£,ç”·,1981-1-1");
+        list.add("å°å•,ç”·,1981-1-1");
         return list;
     }
 
