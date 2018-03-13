@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 public class ArtDesignFrame extends JFrame {
 
 	/**
-	 * 
+	 * coding by susmote
 	 */
 	private static final long serialVersionUID = 6753823382364980954L;
 	ArtDesignPanel artDesignPanel = new ArtDesignPanel();
@@ -34,7 +34,7 @@ public class ArtDesignFrame extends JFrame {
 	}
 	class ArtDesignPanel extends JPanel{
 		/**
-		 * 
+		 * coding by susmote
 		 */
 		private static final long serialVersionUID = 67936637491009735L;
 

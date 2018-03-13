@@ -123,12 +123,12 @@ ASCII编码查看器
 判断日期格式的有效性  
 
 ### 项目编号：025  
-  
+`com.susmote.LocaleTimeZone`  
 &nbsp;&nbsp;&nbsp;
 查看本地时区  
 
 ### 项目编号：026  
-  
+`com.susmote.ProgramRunningTime`  
 &nbsp;&nbsp;&nbsp;
 计算程序运行时间  
 
@@ -161,3 +161,18 @@ ASCII编码查看器
 `com.susmote.DrawFlowerFrame`  
 &nbsp;&nbsp;&nbsp;
 绘制花瓣  
+
+### 项目编号：033  
+`com.susmote.CutImageFrame`  
+&nbsp;&nbsp;&nbsp;
+裁剪图片  
+
+### 项目编号：034  
+`com.susmote.CreatImageFrame`  
+&nbsp;&nbsp;&nbsp;
+使用像素值生成图像  
+
+### 项目编号：035
+`com.susmote.WatermarkTextFrame`  
+&nbsp;&nbsp;&nbsp;
+水印文字特效  
