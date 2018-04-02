@@ -176,3 +176,18 @@ ASCII编码查看器
 `com.susmote.WatermarkTextFrame`  
 &nbsp;&nbsp;&nbsp;
 水印文字特效  
+
+### 项目编号：036
+`com.susmote.ChineseIdentifyingCode`  
+&nbsp;&nbsp;&nbsp;
+中文验证码  
+
+### 项目编号：037
+`com.susmote.ImageIdentifyingCode`  
+&nbsp;&nbsp;&nbsp;
+图片验证码  
+
+### 项目编号：038
+`com.susmote.DisturbLineCode`  
+&nbsp;&nbsp;&nbsp;
+带干扰线的验证码  
