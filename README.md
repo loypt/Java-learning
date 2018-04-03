@@ -191,3 +191,13 @@ ASCII编码查看器
 `com.susmote.DisturbLineCode`  
 &nbsp;&nbsp;&nbsp;
 带干扰线的验证码  
+
+### 项目编号：039
+`com.susmote.TranslucenceImageFrame`  
+&nbsp;&nbsp;&nbsp;
+图片的半透明特效  
+
+### 项目编号：040
+`com.susmote.PictureMixFrame`  
+&nbsp;&nbsp;&nbsp;
+图片融合特效  
