@@ -61,3 +61,4 @@ fabric.properties
 hs_err_pid*  
 /.metadata/
 /.recommenders/
+/RemoteSystemsTempFiles/
