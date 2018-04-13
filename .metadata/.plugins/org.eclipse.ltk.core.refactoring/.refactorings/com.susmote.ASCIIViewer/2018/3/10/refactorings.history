@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;susmote.ASCIIViewer&apos; to &apos;com.susmote.ASCIIViewer&apos;&#x0D;&#x0A;- Original project: &apos;com.susmote.ASCIIViewer&apos;&#x0D;&#x0A;- Original element: &apos;com.susmote.ASCIIViewer/src/susmote.ASCIIViewer&apos;&#x0D;&#x0A;- Renamed element: &apos;com.susmote.ASCIIViewer/src/com.susmote.ASCIIViewer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;susmote.ASCIIViewer&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;susmote.ASCIIViewer" name="com.susmote.ASCIIViewer" qualified="false" references="true" stamp="1520501296051" textual="false" version="1.0"/>
-</session>

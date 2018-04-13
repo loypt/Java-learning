@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;susmote.ElectronicClock&apos; to &apos;com.susmote.ElectronicClock&apos;&#x0D;&#x0A;- Original project: &apos;susmote.ElectronicClock&apos;&#x0D;&#x0A;- Original element: &apos;susmote.ElectronicClock/src/susmote.ElectronicClock&apos;&#x0D;&#x0A;- Renamed element: &apos;susmote.ElectronicClock/src/com.susmote.ElectronicClock&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;susmote.ElectronicClock&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;susmote.ElectronicClock" name="com.susmote.ElectronicClock" qualified="false" references="true" stamp="1520503758455" textual="false" version="1.0"/>
-</session>

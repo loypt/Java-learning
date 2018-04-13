@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;susmote.LuckyAudience&apos;&#x0D;&#x0A;- Original project: &apos;susmote.LuckyAudience&apos;&#x0D;&#x0A;- Original element: &apos;susmote.LuckyAudience.LuckyAudience.java&apos;" description="Delete element" element1="/src&lt;susmote.LuckyAudience{LuckyAudience.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1514796832811" subPackages="false" version="1.0"/>
-</session>

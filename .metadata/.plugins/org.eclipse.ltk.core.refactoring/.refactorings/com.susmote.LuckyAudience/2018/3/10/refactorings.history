@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;susmote.LuckyAudience&apos; to &apos;com.susmote.LuckyAudience&apos;&#x0D;&#x0A;- Original project: &apos;com.susmote.LuckyAudience&apos;&#x0D;&#x0A;- Original element: &apos;com.susmote.LuckyAudience/src/susmote.LuckyAudience&apos;&#x0D;&#x0A;- Renamed element: &apos;com.susmote.LuckyAudience/src/com.susmote.LuckyAudience&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;susmote.LuckyAudience&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;susmote.LuckyAudience" name="com.susmote.LuckyAudience" qualified="false" references="true" stamp="1520501417082" textual="false" version="1.0"/>
-</session>
