@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;susmote.DynamicArraySave&apos; to &apos;com.susmote.DynamicArraySave&apos;&#x0D;&#x0A;- Original project: &apos;susmote.DynamicArraySave&apos;&#x0D;&#x0A;- Original element: &apos;susmote.DynamicArraySave/src/susmote.DynamicArraySave&apos;&#x0D;&#x0A;- Renamed element: &apos;susmote.DynamicArraySave/src/com.susmote.DynamicArraySave&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;susmote.DynamicArraySave&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;susmote.DynamicArraySave" name="com.susmote.DynamicArraySave" qualified="false" references="true" stamp="1520503583666" textual="false" version="1.0"/>
+</session>

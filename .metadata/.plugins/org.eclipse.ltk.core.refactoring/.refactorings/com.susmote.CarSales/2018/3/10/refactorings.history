@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;susmote.CarSales&apos; to &apos;com.susmote.CarSales&apos;&#x0D;&#x0A;- Original project: &apos;com.susmote.CarSales&apos;&#x0D;&#x0A;- Original element: &apos;com.susmote.CarSales/src/susmote.CarSales&apos;&#x0D;&#x0A;- Renamed element: &apos;com.susmote.CarSales/src/com.susmote.CarSales&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;susmote.CarSales&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;susmote.CarSales" name="com.susmote.CarSales" qualified="false" references="true" stamp="1520501345457" textual="false" version="1.0"/>
+</session>

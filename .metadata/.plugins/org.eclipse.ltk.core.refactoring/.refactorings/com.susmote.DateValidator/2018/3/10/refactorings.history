@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;susmote.DateValidator&apos; to &apos;com.susmote.DateValidator&apos;&#x0D;&#x0A;- Original project: &apos;susmote.DateValidator&apos;&#x0D;&#x0A;- Original element: &apos;susmote.DateValidator/src/susmote.DateValidator&apos;&#x0D;&#x0A;- Renamed element: &apos;susmote.DateValidator/src/com.susmote.DateValidator&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;susmote.DateValidator&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;susmote.DateValidator" name="com.susmote.DateValidator" qualified="false" references="true" stamp="1520503037626" textual="false" version="1.0"/>
+</session>

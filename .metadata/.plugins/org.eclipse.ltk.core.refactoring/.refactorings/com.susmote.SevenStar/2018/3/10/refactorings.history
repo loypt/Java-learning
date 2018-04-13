@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;susmote.SevenStar&apos; to &apos;com.susmote.SevenStar&apos;&#x0D;&#x0A;- Original project: &apos;susmote.SevenStar&apos;&#x0D;&#x0A;- Original element: &apos;susmote.SevenStar/src/susmote.SevenStar&apos;&#x0D;&#x0A;- Renamed element: &apos;susmote.SevenStar/src/com.susmote.SevenStar&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;susmote.SevenStar&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;susmote.SevenStar" name="com.susmote.SevenStar" qualified="false" references="true" stamp="1520501708616" textual="false" version="1.0"/>
+</session>

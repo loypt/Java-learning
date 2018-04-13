@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;susmote.FillGradientFrame&apos; to &apos;com.susmote.FillGradientFrame&apos;&#x0D;&#x0A;- Original project: &apos;susmote.FillGradientFrame&apos;&#x0D;&#x0A;- Original element: &apos;susmote.FillGradientFrame/src/susmote.FillGradientFrame&apos;&#x0D;&#x0A;- Renamed element: &apos;susmote.FillGradientFrame/src/com.susmote.FillGradientFrame&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;susmote.FillGradientFrame&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;susmote.FillGradientFrame" name="com.susmote.FillGradientFrame" qualified="false" references="true" stamp="1520503354879" textual="false" version="1.0"/>
+</session>
